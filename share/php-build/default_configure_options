@@ -13,6 +13,7 @@
 --with-curl=/usr
 --with-tidy
 --with-xmlrpc
+--with-sodium
 --enable-sysvsem
 --enable-sysvshm
 --enable-shmop
